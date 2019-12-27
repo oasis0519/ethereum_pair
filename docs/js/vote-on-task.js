@@ -83,7 +83,7 @@ function processFormData(_formData) {
   var taskId_ = _formData[1].value,
     vote_ = _formData[2].value;
 
-  console.log('adsf', taskId_)
+  console.log('abcd', taskId_)
 
   return (taskId_, vote_);
 }

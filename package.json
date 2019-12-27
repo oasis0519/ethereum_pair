@@ -11,14 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robisoniv/ethparis.git"
+    "url": "https://github.com/seniordev0519/ethereum_pair"
   },
-  "author": "John IV",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/robisoniv/ethparis/issues"
-  },
-  "homepage": "https://github.com/robisoniv/ethparis#readme",
+  "author": "Seniordev0519",
+  "license": "Apache",
   "dependencies": {
     "@turf/turf": "^5.1.6"
   }
